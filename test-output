@@ -1,0 +1,11 @@
+DATE/TIME       POLICY SERVICE                          SRCZONE  DSTZONE  ACTION  SOURCE ADDRESS                   PORT   DESTINATION ADDRESS              PORT
+Sep 12 15:39:05  290   tcp/port:52812                   outside  inside   Deny    209.133.121.234                  54945  144.37.114.235                   52812 
+Sep 12 15:39:05  290   tcp/port:52812                   outside  inside   Deny    209.133.121.180                  46076  144.37.114.235                   52812 
+Sep 12 15:39:05  45    http                             inside   inside   Permit  144.37.141.15                    4172   144.37.11.39                     80    
+Sep 12 15:39:05  290   udp/port:3727                    outside  inside   Deny    68.108.176.165                   13535  144.37.232.177                   3727  
+Sep 12 15:39:05  290   tcp/port:6881                    outside  inside   Deny    210.49.28.131                    33169  144.37.233.188                   6881  
+Sep 12 15:39:05  290   smtp                             outside  inside   Deny    76.118.108.69                    4297   144.37.1.41                      25    
+Sep 12 15:39:05  290   tcp/port:15517                   outside  inside   Deny    71.205.202.232                   4284   144.37.234.239                   15517 
+Sep 12 15:39:05  290   tcp/port:52812                   outside  inside   Deny    209.66.117.173                   34634  144.37.114.235                   52812 
+Sep 12 15:39:05  290   tcp/port:61830                   outside  inside   Deny    81.208.83.248                    4094   144.37.10.87                     61830 
+Sep 12 15:39:06  290   udp/port:55316                   outside  inside   Deny    200.5.56.206                     12705  144.37.232.210                   55316 
