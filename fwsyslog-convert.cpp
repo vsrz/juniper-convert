@@ -10,9 +10,6 @@
  *
  * By:
  * Jeremy Villegas
- * Network Analyst, IITS
- * California State University, San Marcos
- * Office: 760-750-4798 | Mobile: 858-412-0108
  * 
  * 07/02/2008  JV - Fixed bug which caused the logging to fall short when
  *                  the device did a logging statistics update
